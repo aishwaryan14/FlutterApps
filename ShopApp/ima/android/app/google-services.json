@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330731222753",
+    "firebase_url": "https://pima-df655.firebaseio.com",
+    "project_id": "pima-df655",
+    "storage_bucket": "pima-df655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330731222753:android:5bb12af2549cd43eb529a0",
+        "android_client_info": {
+          "package_name": "com.flutterapplication.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330731222753-b7vqqqmpdn8446ck61kjupfbl8clgk4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzUWv-jTyKQTyLhxHQuCH9rZVjzkePDQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330731222753-b7vqqqmpdn8446ck61kjupfbl8clgk4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
